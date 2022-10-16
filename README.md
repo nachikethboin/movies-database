@@ -1,9 +1,9 @@
 # movies-database-mulesoft 
-movie_fav.py creates SQLite database.
+• movie_fav.py creates SQLite database.
 
-movie_fav.db is the created SQLite database.
+• movie_fav.db is the created SQLite database.
 
-connect.php is to connect to a movie_fav.db(SQLite database) with PHP.
+• connect.php is to connect to a movie_fav.db(SQLite database) with PHP.
 >creating db in python.
 ![py_op](https://user-images.githubusercontent.com/105433273/196043047-13e66926-07c7-4230-ae51-48668e352f40.png)
 >database structure of created database(movie_fav.db).
